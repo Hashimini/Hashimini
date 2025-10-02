@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUNICK&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNICK&layout=compact&theme=dracula)
+
+
 <!--
 **Hashimini/Hashimini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
