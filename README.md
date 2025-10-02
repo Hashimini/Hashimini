@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUNICK&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNICK&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashimini&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimini&layout=compact&theme=dracula)
 
 
 <!--
