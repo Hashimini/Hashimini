@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashimini&show_icons=true&theme=dracula)
+![Trans Rights](https://img.shields.io/badge/Trans%20Rights-Human%20Rights-5BCEFA?style=for-the-badge&logo=heart&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimini&layout=compact&theme=dracula)
 
 
