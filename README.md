@@ -2,6 +2,9 @@
 
 ![Trans Rights](https://img.shields.io/badge/Trans%20Rights-Human%20Rights-5BCEFA?style=for-the-badge&logo=heart&logoColor=white)
 
+### 🎨 Uma das minhas artes
+[![3D Model](https://img.shields.io/badge/🔗-Ver%20em%203D-blueviolet)](https://sketchfab.com/models/xxxx)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimini&layout=compact&theme=dracula)
 
 
