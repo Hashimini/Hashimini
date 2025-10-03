@@ -6,8 +6,6 @@
   </a>
 </div>
 
----
-
 <div align="left">
 <p>I am studying ADS at <a href="https://www.unisuam.edu.br/">UNISUAM</a> an University in Brazil. I strive to learn and do my best in each project.</p>
 </div>
