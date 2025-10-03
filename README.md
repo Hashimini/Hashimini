@@ -18,18 +18,18 @@ ___
 var cyrne = new
 {
     Pronouns = "She/Her",
-    Languages = 
-    new string[] 
+    Languages = new string[] 
     { 
-    "C#", "C++", "C", "Assembly", "Python", "Shell", "HTML", "CSS", "JavaScript", ".NET", "Unity" 
+        "C#", "C++", "C", "Assembly", "Python", "Shell", "HTML", "CSS", "JavaScript", ".NET", "Unity" 
     },
     
-    Tools = 
-    new string[] 
+    Tools = new string[] 
     { 
-    "Visual Studio", "Git", "GitHub", "Docker", "Packet Tracer", "Bootstrap", "Linux" 
+        "Visual Studio", "Git", "GitHub", "Docker", "Packet Tracer", "Bootstrap", "Linux" 
     },
     
+    // 🏳️‍⚧ Trans Rights Are Human Rights
     Challenge = "I am trying to learn 3D"
 };
+
 ```
