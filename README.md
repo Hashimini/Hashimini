@@ -11,7 +11,7 @@
 ___
   
 ```c#
-var cyrne = new
+var Rebecca = new
 {
     Pronouns = "She/Her",
     Languages = new string[] 
