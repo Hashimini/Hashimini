@@ -25,7 +25,6 @@ var Rebecca = new
     },
     
     // 🏳️‍⚧ Trans Rights Are Human Rights
-    Challenge = "I am trying to learn 3D"
 };
 
 ```
