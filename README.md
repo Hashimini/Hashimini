@@ -17,10 +17,10 @@ public class Rebecca : MonoBehaviour{
     public string Pronouns => "She/Her";
 
     public string[] Languages =>
-        new[] { "C#", "C++", "C", "Assembly", "Python", "JavaScript", "Unity" };
+        new[] { "C#", "C++", "Python", "JavaScript", "Unity", "Ionic" };
 
     public string[] Tools =>
-        new[] { "Visual Studio", "Git", "GitHub", "Docker", "Linux" };
+        new[] { "Visual Studio", "Git", "GitHub", "Docker", "Linux", "Blender3D", "AFfinity Photo2", "DaVinci Resolve" };
 
     void Awake(){
         Debug.Log(" 🏳️‍⚧ Trans Rights Are Human Rights");
