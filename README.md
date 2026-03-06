@@ -23,7 +23,7 @@ public class Rebecca : MonoBehaviour{
         new[] { "Visual Studio", "Git", "GitHub", "Docker", "Linux", "Blender3D", "AFfinity Photo2", "DaVinci Resolve" };
 
     void Awake(){
-        Debug.Log(" 🏳️‍⚧ Trans Rights Are Human Rights");
+        Debug.Log("🏳️‍⚧ Trans Rights Are Human Rights");
     }
 }
 
