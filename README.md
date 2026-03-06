@@ -10,22 +10,22 @@
 
 ___
   
-```c#
-var Rebecca = new
-{
-    Pronouns = "She/Her",
-    Languages = new string[] 
-    { 
-        "C#", "C++", "C", "Assembly", "Python", "Shell", "HTML", "CSS", "JavaScript", ".NET", "Unity" 
-    },
-    
-    Tools = new string[] 
-    { 
-        "Visual Studio", "Git", "GitHub", "Docker", "Packet Tracer", "Bootstrap", "Linux" 
-    },
-    
-    // 🏳️‍⚧ Trans Rights Are Human Rights
-};
+```csharp
+using UnityEngine;
+
+public class Rebecca : MonoBehaviour{
+    public string Pronouns => "She/Her";
+
+    public string[] Languages =>
+        new[] { "C#", "C++", "C", "Assembly", "Python", "JavaScript", "Unity" };
+
+    public string[] Tools =>
+        new[] { "Visual Studio", "Git", "GitHub", "Docker", "Linux" };
+
+    void Awake(){
+        Debug.Log(" 🏳️‍⚧ Trans Rights Are Human Rights");
+    }
+}
 
 ```
 **`Developer`**
