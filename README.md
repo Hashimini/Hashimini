@@ -17,7 +17,7 @@ public class Rebecca : MonoBehaviour{
     public string Pronouns => "She/Her";
 
     public string[] Languages =>
-        new[] { "C#", "C++", "Python", "JavaScript", "Unity", "ReactNative" };
+        new[] { "C#", "C++", "Python", "JavaScript", "Unity", "ReactNative", .NET, TypeScript };
 
     public string[] Tools =>
         new[] { "Visual Studio", "Git", "GitHub", "Docker", "Linux", "Blender3D", "AFfinity Photo2", "DaVinci Resolve" };
