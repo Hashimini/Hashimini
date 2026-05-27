@@ -11,16 +11,16 @@
 ___
   
 ```csharp
-using UnityEngine;
+using System;
 
 public class Rebecca : MonoBehaviour{
     public string Pronouns => "She/Her";
 
     public string[] Languages =>
-        new[] { "C#", "C++", "Python", "JavaScript", "Unity", "ReactNative", .NET, TypeScript };
+        new[] { "C#", "Python", "JavaScript", "Unity", "Front-end relateds", .NET, TypeScript, "PHP" };
 
     public string[] Tools =>
-        new[] { "Visual Studio", "Git", "GitHub", "Docker", "Linux", "Blender3D", "AFfinity Photo2", "DaVinci Resolve" };
+        new[] { "Visual Studio", "Docker", "Linux", "Blender3D", "Affinity Photo 2", "DaVinci Resolve", "Unity", "Firebase" };
 
     void Awake(){
         Debug.Log("🏳️‍⚧ Trans Rights Are Human Rights");
